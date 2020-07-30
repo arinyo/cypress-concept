@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://code.seat/",
+  "viewportWidth": 1280,
+  "viewportHeight": 1024,
+  "testFiles": "**/*.feature",
+  "chromeWebSecurity": false
+}
